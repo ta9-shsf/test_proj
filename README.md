@@ -6,4 +6,5 @@ ___Takumi Araki___
 2022.04.17
 
 ## environment
+PC : apple macbock Air
 OS : mac OS Monterey ver.12.3
