@@ -7,4 +7,4 @@ ___Takumi Araki___
 
 ## environment
 PC : apple macbock Air
- 
+OS : mac OS Monterey ver.12.3
