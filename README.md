@@ -3,8 +3,8 @@
 ___Takumi Araki___
 
 ## date
-2022.04.17
+2022.04.20
 
 ## environment
-PC : apple macbock Air
+PC : apple macbock Air  
 OS : mac OS Monterey ver.12.3
