@@ -1,0 +1,10 @@
+name: Hello, World! #ワークフローの名前
+on: push            #ワークフローのトリガタイミング
+
+#ワークフロー内で実行されるジョブを定義
+jobs:
+  build:                            #"build"はジョブのIDなのでユニークであればなんでも良い
+    name: Greeting                  #ジョブの名前
+    runs-on: ubuntu-latest          #ジョブが実行される仮想環境を指定
+    steps:                          #ジョブ内で実行される処理を定義
+      - run: echo "Heloo, World!"
